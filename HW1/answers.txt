@@ -1,0 +1,1 @@
+One field that I think data science can be applied to is sports analytics to record and log player statistics, use it to make insightful decisions, and predict future outputs of games based on the current data that we have. 
