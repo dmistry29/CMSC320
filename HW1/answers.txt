@@ -1,2 +1,5 @@
+
 We want to consider using git when we have multiple people working on the same shared project so we can save different versions of the notebook on our local machine and only push what's necessary to the main branch.
+
+One field that I think data science can be applied to is sports analytics to record and log player statistics, use it to make insightful decisions, and predict future outputs of games based on the current data that we have. 
 
